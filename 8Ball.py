@@ -1,4 +1,4 @@
-#Adding "random" number generator thats predictable over time 
+#Adding "random" number generator
 import random
 
 #Set your name
